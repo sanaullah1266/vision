@@ -6201,3 +6201,11 @@
      width: 100%;
      height: 500px;
  }
+ /* start */
+ .fa-play{
+    font-size: 40px !important;
+padding: 35px;
+position: relative;
+bottom: 7px;
+left: 2px;
+}
