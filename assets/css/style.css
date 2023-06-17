@@ -69,7 +69,7 @@
      color: #999999;
      line-height: 22px;
      font-weight: 400;
-     background: #272727;
+     background: #191818;
      font-family: 'Poppins', sans-serif;
      background-size: cover;
      background-repeat: no-repeat;
@@ -1730,8 +1730,8 @@
      overflow: hidden;
      padding-left: 125px;
      padding-bottom: 125px;
-     background: #323232;
-     border-bottom: 1px solid #333333;
+     background: #161616;
+     border-bottom: 1px solid #0e0d0d;
  }
 
  .banner-carousel {
