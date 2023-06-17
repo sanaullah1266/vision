@@ -75,7 +75,8 @@
      background-repeat: no-repeat;
      background-position: center top;
      -webkit-font-smoothing: antialiased;
- }
+    zoom: 80% !important;
+    }
 
  @media (min-width:1200px) {
      .container {
@@ -661,7 +662,7 @@
      position: relative;
      width: 100%;
      padding: 36px 192px 0px 125px;
-     background: #323232;
+     background: #161616;
  }
 
  .header-lower .shape {
